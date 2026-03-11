@@ -1,8 +1,7 @@
 # GhostWare External
 > The Program **Does Not Have An Auto-Update**. We Recommend Joining Discord To Receive Notifications About New Updates.
 
-Advanced External Cheat with Multiple Bypasses, Perfect for Legit Cheating on Main.
-It Has Many Options That Can Be Fully Customized.
+Advanced External Cheat with Multiple Bypasses, **Perfect for Legit Cheating on Main.** It Has Many Options That Can Be Fully Customized.
 
 ---
 > **Features**
@@ -90,6 +89,24 @@ It Has Many Options That Can Be Fully Customized.
   - Self Crush
   
 </details>
+
+---
+
+> **License Price Choose Best For You:**
+
+**MONTH** - 4€ / 4$ / 15PLN
+- The perfect option to see if you like our product
+
+**2 MONTHS** - 6€ / 7$ / 25PLN
+- The logical choice for players focused on consistent ranking progression.
+
+**3 MONTHS** - 10€ / 11$ / 40PLN
+- Our community favorite, offering the best balance between price and duration.
+
+**LIFETIME** - 14€ / 17$ / 60PLN
+- The best investment, pay once and enjoy permanent access forever.
+
+**YOU CAN BUY GHOSTWARE HERE: https://discord.gg/3852nDrz**
 
 ---
 
