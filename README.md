@@ -135,7 +135,7 @@ Advanced External Cheat with Multiple Bypasses, **Perfect for Legit Cheating on 
 
 - **Discord:** https://discord.gg/3852nDrz
 
-Giveaways, Community Channels, Suggestions, Configs, Support And Bugs Reports
+Giveaways, Community Channels, Suggestions, Configs, Support , FAQ And Bug Reports
 
 - **TikTok:** https://www.tiktok.com/@ghostwarenetwork
 
