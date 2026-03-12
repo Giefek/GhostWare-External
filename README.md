@@ -9,7 +9,6 @@ Advanced External Cheat with Multiple Bypasses, **Perfect for Legit Cheating on 
 - Highly Advanced Stream Proof (Discord, OBS, Medal...)
 - Customized And Advanced TriggerBot
 - Many Highly Customizable ESP Options
-- ESP Previev
 - Custom Binds
 - Highly Optimized
 - Weekly Updates
@@ -130,3 +129,9 @@ Advanced External Cheat with Multiple Bypasses, **Perfect for Legit Cheating on 
 Solution: Just click Downloand It Now And Install The File.
 
 ---
+
+> **Social Media**
+
+Discord: https://discord.gg/3852nDrz
+
+TikTok: https://www.tiktok.com/@ghostwarenetwork
