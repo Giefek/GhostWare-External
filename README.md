@@ -126,7 +126,7 @@ Advanced External Cheat with Multiple Bypasses, **Perfect for Legit Cheating on 
 > **Errors List**
 <img width="533" height="199" alt="{405D8D34-454D-4D2A-9EB6-C65E77E21DBF}" src="https://github.com/user-attachments/assets/8a2f1f35-95f9-4424-b8ef-0c4780ff9362" />
 
-Solution: Just click Downloand It Now And Install The File.
+**How To Repair:** Just click Downloand It Now And Install The File.
 
 ---
 
