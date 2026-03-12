@@ -91,6 +91,29 @@ Advanced External Cheat with Multiple Bypasses, **Perfect for Legit Cheating on 
 </details>
 
 ---
+> **FAQ**
+- **What is GhostWare?**
+GhostWare is a modern External project for Counter-Strike 2, designed for maximum security and performance.
+
+- **Is GhostWare safe for the main account?**
+Yes. GhostWare was created for this purpose. Because it is an External cheat, it minimizes the risk of VAC Live detection and keeps your main account safe.
+
+- **Can I use the cheat while streaming on Discord, Medal obs, or other recording software?**
+Yes. GhostWare includes a Stream Proof feature that successfully bypasses all screen recorders, including Discord, OBS and Medal. You see everything, but your stream and recordings stay completely clean.
+
+- **Does GhostWare lower FPS?**
+No. GhostWare is lightweight and highly optimized so its impact on your computer's performance is unnoticeable.
+
+- **Can I get flagged for using GhostWare?**
+No. The program itself is completely undetectable by the VAC system because it runs on External technology and does not interfere with game files. It is not possible to get flagged (Red Trust Factor) for simply owning or running GhostWare.
+
+- **Do I need to enable GhostWare before launching CS2?**
+No. You can join the game and activate the cheat when you feel you need it even in the middle of a round.
+
+- **Can I play in Full Screen mode?**
+No. Because our cheat is External, playing in Full Screen is not possible. You must set your game to "Fullscreen Windowed" or "Windowed" mode.
+
+---
 
 > **License Price Choose Best For You:**
 
@@ -111,16 +134,13 @@ Advanced External Cheat with Multiple Bypasses, **Perfect for Legit Cheating on 
 ---
 
 > **Previev**
-
 <img width="1920" height="1080" alt="{5A2EF806-2B45-41F0-99B5-25057F11FE2B}" src="https://github.com/user-attachments/assets/0be5a660-eb4b-4f38-bdf6-e7c3fe8a53bd" />
-<img width="1920" height="1080" alt="{84F7895E-FF8B-4B8C-B108-53726C43D10F}" src="https://github.com/user-attachments/assets/120ab0ba-b598-4465-8167-5913e48b09a8" />
-<img width="1920" height="1080" alt="{74EF4018-1770-406A-B075-BD700D52F91E}" src="https://github.com/user-attachments/assets/e91a0b73-2897-4ac5-bf1b-e50a942ad774" />
-<img width="1920" height="1080" alt="{3197FF99-38A2-4A3C-B653-635DBFDC252D}" src="https://github.com/user-attachments/assets/98682890-126b-4797-b906-4f9ef4837d54" />
-<img width="1920" height="1080" alt="{01ABCF19-E3E6-4C55-A26B-9D6B20225A91}" src="https://github.com/user-attachments/assets/cced788e-4309-4c0a-99ef-3d240f920d10" />
-<img width="1920" height="1080" alt="{CF8AA8F0-FA6E-4132-8D12-F191C2E44FF9}" src="https://github.com/user-attachments/assets/16d75dee-1cc0-4dbd-bc48-7651602ef46e" />
-<img width="1920" height="1080" alt="{B0852A41-FEBE-44C4-BC36-133ED21155D5}" src="https://github.com/user-attachments/assets/cc1585e0-6e5b-4b04-af91-95c0002330c2" />
-
-
+<img width="1920" height="1080" alt="{C4575A33-AAF2-464B-89C4-C83BB75BA701}" src="https://github.com/user-attachments/assets/02fee306-84da-41da-beb8-eb7a4946fa55" />
+<img width="1920" height="1080" alt="{936B5B97-4B82-443D-A500-D1F2B533B605}" src="https://github.com/user-attachments/assets/10208126-bd15-42ae-9ec9-9194d8ed3b2c" />
+<img width="1920" height="1080" alt="{954299B5-06D1-4080-B8BC-B76C4EF6CE85}" src="https://github.com/user-attachments/assets/ad1a9b29-63a5-4c26-a702-47d66580fd63" />
+<img width="1920" height="1080" alt="{8F84824E-29A7-4546-BAE1-0B1B15193C2D}" src="https://github.com/user-attachments/assets/1e1c39a5-a94d-46f2-b28c-444640cbf875" />
+<img width="1920" height="1080" alt="{1ACB5883-1C15-4754-BDCA-7DA4CE01E0A7}" src="https://github.com/user-attachments/assets/e0b151f2-ba8e-4474-ac99-51088d4d0208" />
+<img width="1920" height="1080" alt="{A44155C7-3FD7-4457-8A62-E5949CC59D36}" src="https://github.com/user-attachments/assets/ee2ebec0-5969-479d-9149-509f8f998ac1" />
 
 ---
 
