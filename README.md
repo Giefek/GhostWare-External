@@ -10,6 +10,7 @@ Advanced External Cheat with Multiple Bypasses, **Perfect for Legit Cheating on 
 - Customized And Advanced TriggerBot
 - Many Highly Customizable ESP Options
 - Custom Binds
+- Tooltips
 - Highly Optimized
 - Weekly Updates
 - 24/7 Support
@@ -126,12 +127,16 @@ Advanced External Cheat with Multiple Bypasses, **Perfect for Legit Cheating on 
 > **Errors List**
 <img width="533" height="199" alt="{405D8D34-454D-4D2A-9EB6-C65E77E21DBF}" src="https://github.com/user-attachments/assets/8a2f1f35-95f9-4424-b8ef-0c4780ff9362" />
 
-**How To Repair:** Just click Downloand It Now And Install The File.
+**How To Repair:** Just click Download It Now And Install The File
 
 ---
 
 > **Social Media**
 
-Discord: https://discord.gg/3852nDrz
+- **Discord:** https://discord.gg/3852nDrz
 
-TikTok: https://www.tiktok.com/@ghostwarenetwork
+Giveaways, Community Channels, Suggestions, Configs, Support And Bugs Reports
+
+- **TikTok:** https://www.tiktok.com/@ghostwarenetwork
+
+Presenting Options And Cheat Promotion
