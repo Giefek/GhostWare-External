@@ -135,9 +135,9 @@ No. Because our cheat is External, playing in Full Screen is not possible. You m
 
 > **Previev**
 <img width="1920" height="1080" alt="{5A2EF806-2B45-41F0-99B5-25057F11FE2B}" src="https://github.com/user-attachments/assets/0be5a660-eb4b-4f38-bdf6-e7c3fe8a53bd" />
-<img width="1920" height="1080" alt="{C4575A33-AAF2-464B-89C4-C83BB75BA701}" src="https://github.com/user-attachments/assets/02fee306-84da-41da-beb8-eb7a4946fa55" />
+<img width="1920" height="1080" alt="{6994B558-FE11-46A1-ABC4-57269123CFFD}" src="https://github.com/user-attachments/assets/d2bfe165-d2ee-48c0-99e2-2f1977d736f4" />
 <img width="1920" height="1080" alt="{936B5B97-4B82-443D-A500-D1F2B533B605}" src="https://github.com/user-attachments/assets/10208126-bd15-42ae-9ec9-9194d8ed3b2c" />
-<img width="1920" height="1080" alt="{954299B5-06D1-4080-B8BC-B76C4EF6CE85}" src="https://github.com/user-attachments/assets/ad1a9b29-63a5-4c26-a702-47d66580fd63" />
+<img width="1920" height="1080" alt="{B476ADC0-19C5-419B-807C-544B73A3FBD4}" src="https://github.com/user-attachments/assets/59db2ac3-34d6-49a9-ad88-2eb574ad3009" />
 <img width="1920" height="1080" alt="{8F84824E-29A7-4546-BAE1-0B1B15193C2D}" src="https://github.com/user-attachments/assets/1e1c39a5-a94d-46f2-b28c-444640cbf875" />
 <img width="1920" height="1080" alt="{1ACB5883-1C15-4754-BDCA-7DA4CE01E0A7}" src="https://github.com/user-attachments/assets/e0b151f2-ba8e-4474-ac99-51088d4d0208" />
 <img width="1920" height="1080" alt="{A44155C7-3FD7-4457-8A62-E5949CC59D36}" src="https://github.com/user-attachments/assets/ee2ebec0-5969-479d-9149-509f8f998ac1" />
