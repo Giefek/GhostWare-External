@@ -41,8 +41,6 @@ Advanced External Cheat with Multiple Bypasses, **Perfect for Legit Cheating on 
 
   - Bone ESP
 
-  - Chams
-
   - Snaplines
 
   - Arrows
@@ -58,11 +56,13 @@ Advanced External Cheat with Multiple Bypasses, **Perfect for Legit Cheating on 
 
   - Weapon Names
 
+  - Total HP
+
+  - C4 Holder
+
   - Health Bars
 
   - Armor Bars
-
-  - Total HP
   
 </details>
 
