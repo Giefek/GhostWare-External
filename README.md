@@ -155,7 +155,7 @@ No. Because our cheat is External, playing in Full Screen is not possible. You m
 
 - **Discord:** https://discord.gg/3852nDrz
 
-Giveaways, Community Channels, Suggestions, Configs, Support , FAQ And Bug Reports
+Giveaways, Community Channels, Suggestions, Configs, Support, FAQ And Bug Reports
 
 - **TikTok:** https://www.tiktok.com/@ghostwarenetwork
 
