@@ -1,7 +1,7 @@
 # GhostWare External
 > The Program **Does Not Have An Auto-Update**. We Recommend Joining Discord To Receive Notifications About New Updates.
 
-Advanced External Cheat with Multiple Bypasses, **Perfect for Legit Cheating on Main.** It Has Many Options That Can Be Fully Customized.
+Advanced External Cheat With Multiple Bypasses, **Perfect for Legit Cheating On Main.** It Has Many Options That Can Be Fully Customized.
 
 ---
 > **Features**
