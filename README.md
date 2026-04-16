@@ -100,7 +100,7 @@ GhostWare is a modern External project for Counter-Strike 2, designed for maximu
 - **Is GhostWare safe for the main account?**
 Yes. GhostWare was created for this purpose. Because it is an External cheat, it minimizes the risk of VAC Live detection and keeps your main account safe.
 
-- **Can I use the cheat while streaming on Discord, Medal obs, or other recording software?**
+- **Can I use the cheat while streaming?**
 Yes. GhostWare includes a Stream Proof feature that successfully bypasses all screen recorders, including Discord, OBS and Medal. You see everything, but your stream and recordings stay completely clean.
 
 - **Does GhostWare lower FPS?**
