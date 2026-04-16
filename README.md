@@ -117,7 +117,7 @@ No. Because our cheat is External, playing in Full Screen is not possible. You m
 
 ---
 
-> **License Price Choose Best For You:**
+> **License Price**
 
 **1 MONTH** - 2€ / 2$ / 8PLN
 
