@@ -119,18 +119,10 @@ No. Because our cheat is External, playing in Full Screen is not possible. You m
 
 > **License Price Choose Best For You:**
 
-**MONTH** - 4€ / 4$ / 15PLN
-- The perfect option to see if you like our product
-
-**2 MONTHS** - 6€ / 7$ / 25PLN
-- The logical choice for players focused on consistent ranking progression.
-
-**3 MONTHS** - 10€ / 11$ / 40PLN
-- Our community favorite, offering the best balance between price and duration.
-
-**LIFETIME** - 14€ / 17$ / 60PLN
-- The best investment, pay once and enjoy permanent access forever.
-
+**1 MONTH** - 2€ / 2$ / 8PLN
+**2 MONTHS** - 3€ / 3$ / 13PLN
+**3 MONTHS** - 5€ / 5$ / 21PLN
+**LIFETIME** - 10€ / 11$ / 42PLN
 **YOU CAN BUY GHOSTWARE HERE: https://discord.gg/3852nDrz**
 
 ---
